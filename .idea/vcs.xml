@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/planner-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/planner-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/planner-server" vcs="Git" />
   </component>
 </project>
